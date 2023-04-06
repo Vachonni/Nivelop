@@ -2,6 +2,10 @@
 
 ---
 
+Founder and CEO: [NicholasVachon](www.linkedin.com/in/vachonnicholas)
+
+<!--
+
 ### Coding
 
 [Chatbotwizz](http://github.com/Vachonni/ChatbotWiz)
@@ -29,7 +33,7 @@ Interview project categorising chats
 ---
 
 
-
+-->
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
