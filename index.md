@@ -2,7 +2,7 @@
 
 ---
 
-Founder and CEO: [NicholasVachon](www.linkedin.com/in/vachonnicholas)
+Founder and CEO: [Nicholas Vachon](www.linkedin.com/in/vachonnicholas)
 
 <!--
 
