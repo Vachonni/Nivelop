@@ -2,7 +2,13 @@
 
 ---
 
-Founder and CEO: [Nicholas Vachon](www.linkedin.com/in/vachonnicholas)
+### Nicholas Vachon - Founder and CEO
+
+<p style="font-size: 12px; line-height: 1.2;">
+&nbsp;&nbsp;&nbsp;&nbsp;Phone: <a href="tel:+447459171353">+44 7459 171353</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;Email: <a href="mailto:nicholasvachon@hotmail.com">nicholasvachon@hotmail.com</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;LinkedIn: <a href="https://www.linkedin.com/in/vachonnicholas">www.linkedin.com/in/vachonnicholas</a>
+</p>
 
 <!--
 
