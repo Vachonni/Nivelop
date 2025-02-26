@@ -2,7 +2,9 @@
 
 ---
 
-### Nicholas Vachon - Founder and CEO
+### Nicholas Vachon
+
+Freelance Machine Learning Engineer
 
 <p style="font-size: 12px; line-height: 1.2;">
 &nbsp;&nbsp;&nbsp;&nbsp;Phone: <a href="tel:+447459171353">+44 7459 171353</a><br>
